@@ -35,6 +35,7 @@ poetry install
 
 ```
 
+Add environment variable like in .env.example.
 Run the tool and provide it with a topic or keyword.
 Review and edit the generated post before sharing it on LinkedIn.
 
